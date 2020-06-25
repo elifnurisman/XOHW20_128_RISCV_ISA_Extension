@@ -47,7 +47,7 @@ in the application.
 
 ## Description of Archive
 
- - /srcs Contains source files for RV32IMC* Ibex Core with our modifications.
+ - /srcs Contains source files for RV32IMC Ibex Core with our modifications.
  - /sw  Contains our 48-bit message length NTRU C implementation with parameters **N = 53**, **p = 3**, **q = 101** with added custom instructions.
  - /bit Contains the project bitstream compatible with our FPGA card specified above. 
  - /prj Contains the archived project. 
@@ -55,6 +55,8 @@ in the application.
 ## Instructions to Test the Project
 
  - Generated bitstream is in the /bit folder. Anyone can program their Nexys4DDR FPGA with that bitstream and can verify our results on the hardware manager window of Vivado 2018.1
+ 
+ - In order to reach to the project details, unzipping the compressed file in */prj* and opening the .xpr file in Vivado 2018.1 would be sufficient. 
  
 
 ## Link to YouTube Video:
