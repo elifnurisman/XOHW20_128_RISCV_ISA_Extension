@@ -41,4 +41,4 @@ This folder contains all the *.sv* files of our project with the addition of con
  - ibex_alu.sv
  - clkgen_xil7series.sv
  
-PS: remainder.v is taken from the paper "*TRANSLATION OF DIVISION ALGORITHM INTO VERILOG HDL* by Y. Yusmardiah, 2006")
+PS: remainder.v is taken from the paper "*TRANSLATION OF DIVISION ALGORITHM INTO VERILOG HDL* by Y. Yusmardiah, 2006"
