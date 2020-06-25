@@ -1,38 +1,37 @@
 # Extending the Instruction Set of RISC-V Processor for NTRU Algorithm
 
 
- - Team number: 128
+ - **Team number:** 128
 
- - Project name: Extending the Instruction Set of RISC-V Processor for NTRU Algorithm
+ - **Project name:** Extending the Instruction Set of RISC-V Processor for NTRU Algorithm
 
- - Date: 
+ - **Date:** 
 
- - Version of uploaded archive:
+ - **University name:** Istanbul Technical University  
 
+ - **Supervisor name:** Sıddıka Berna Örs Yalçın
 
- - University name: Istanbul Technical University  
+ - **Supervisor e-mail:** orssi@itu.edu.tr 
 
- - Supervisor name: Sıddıka Berna Örs Yalçın
+ - **Participants:** Elif Nur İşman, Canberk Topal
 
- - Supervisor e-mail: orssi@itu.edu.tr 
+  **Emails:** 
+  
+   - isman15@itu.edu.tr
 
- - Participants: Elif Nur İşman, Canberk Topal
-
- - Email: isman15@itu.edu.tr
-
- - Email: topalc16@itu.edu.tr
+   - topalc16@itu.edu.tr
  
 ## Specifications
 
- - Board used: Digilent Nexys 4 DDR Artix-7  
+ - **Board used:** Digilent Nexys 4 DDR Artix-7  
 
- - Software Version: Xilinx Vivado 2019.1 
+ - **Software Version:** Xilinx Vivado 2019.1 
 
 ## Description of the Project
 
  
 
-## Description of archive
+## Description of Archive
 
 ## Instructions to Build and Test the Project
 
