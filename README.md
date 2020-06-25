@@ -5,7 +5,7 @@
 
  - **Project name:** Extending the Instruction Set of RISC-V Processor for NTRU Algorithm
 
- - **Date:** 
+ - **Date: 30 June 2020** 
 
  - **University name:** Istanbul Technical University  
 
