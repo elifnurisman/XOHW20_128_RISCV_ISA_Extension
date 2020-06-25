@@ -58,7 +58,7 @@ in the application.
 
 ## References:
 
- 1- N. S. Yanofsky and M. A. Mannucci, Quantum Computing for Computer Scientists , 1st ed. Cambridge University Press, 11 Aug 2008.
- 2- M. Mohseni, P. Read, H. Neven, S. Boixo, V. Denchev, R. Babbush, A. Fowler, V. Smelyanskiy, and J. Martinis, “Commercialize quantum technologies in five years,” Nature, vol. 543, no. 7644, pp. 171–174, 2017.
- 3- S. B. Furber, VLSI RISC Architecture and Organization . Routledge, 19 Sep 2017
- 4- D. A. Patterson and J. L. Hennessy, Computer Organization and Design RISC-V Edition , 1st ed. Morgan Kaufmann, 12 May 2017.
+ 1. N. S. Yanofsky and M. A. Mannucci, Quantum Computing for Computer Scientists , 1st ed. Cambridge University Press, 11 Aug 2008.
+ 2. M. Mohseni, P. Read, H. Neven, S. Boixo, V. Denchev, R. Babbush, A. Fowler, V. Smelyanskiy, and J. Martinis, “Commercialize quantum technologies in five years,” Nature, vol. 543, no. 7644, pp. 171–174, 2017.
+ 3. S. B. Furber, VLSI RISC Architecture and Organization . Routledge, 19 Sep 2017
+ 4. D. A. Patterson and J. L. Hennessy, Computer Organization and Design RISC-V Edition , 1st ed. Morgan Kaufmann, 12 May 2017.
