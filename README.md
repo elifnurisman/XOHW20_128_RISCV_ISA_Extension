@@ -24,6 +24,8 @@
  - **Board used:** Digilent Nexys 4 DDR Artix-7  
 
  - **Software Version:** Xilinx Vivado 2018.1 
+ 
+ - **Hardware Description Language:** SystemVerilog
 
 ## Description of the Project
 
