@@ -1,41 +1,41 @@
 # xohw20_128_RISCV_ISA_Extension
 
 
-Team number: 128
+#Team number: 128
 
-Project name: Extending the Instruction Set of RISC-V Processor for NTRU Algorithm
+#Project name: Extending the Instruction Set of RISC-V Processor for NTRU Algorithm
 
-Date: 
+#Date: 
 
-Version of uploaded archive:
+#Version of uploaded archive:
 
 
-University name: Istanbul Technical University  
+#University name: Istanbul Technical University  
 
-Supervisor name: Sıddıka Berna Örs Yalçın
+#Supervisor name: Sıddıka Berna Örs Yalçın
 
-Supervisor e-mail: orssi@itu.edu.tr 
+#Supervisor e-mail: orssi@itu.edu.tr 
 
-Participant(s): Elif Nur İşman, Canberk Topal
+#Participant(s): Elif Nur İşman, Canberk Topal
 
-Email: isman15@itu.edu.tr
+#Email: isman15@itu.edu.tr
 
-Email: topalc16@itu.edu.tr
+#Email: topalc16@itu.edu.tr
  
 
-Board used: Digilent Nexys 4 DDR Artix-7  
+#Board used: Digilent Nexys 4 DDR Artix-7  
 
-Software Version: Xilinx Vivado 2019.1 
+#Software Version: Xilinx Vivado 2019.1 
 
-Brief description of project:
-
- 
-
-Description of archive (explain directory structure, documents and source files):
-
-Instructions to build and test project
-
+#Brief description of project:
 
  
 
-Link to YouTube Video(s):
+#Description of archive (explain directory structure, documents and source files):
+
+#Instructions to build and test project
+
+
+ 
+
+#Link to YouTube Video(s):
