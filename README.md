@@ -5,8 +5,6 @@
 
  - **Project name:** Extending the Instruction Set of RISC-V Processor for NTRU Algorithm
 
- - **Date:** 30 June 2020 
-
  - **University name:** Istanbul Technical University  
 
  - **Supervisor name:** Sıddıka Berna Örs Yalçın
