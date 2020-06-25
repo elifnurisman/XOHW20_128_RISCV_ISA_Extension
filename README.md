@@ -13,7 +13,7 @@
 
  - **Participants:** Elif Nur İşman, Canberk Topal
 
-  **Emails:** 
+   **Emails:** 
   
    - isman15@itu.edu.tr
 
@@ -47,11 +47,14 @@ in the application.
 
 ## Description of Archive
 
+ - /src Contains source files for RV32IMC* Ibex Core with our modifications.
+ - /sw  Contains our 48-bit message length NTRU C implementation with parameters **N = 53**, **p = 3**, **q = 101** /w added custom instructions.
+ - /bit Contains the project bitstream compatible with our FPGA card specified above. 
 
 
-## Instructions to Build and Test the Project
+## Instructions to Test the Project
 
-
+ - Generated bitstream is in the /bit folder. Anyone can program their Nexys4DDR FPGA with that bitstream and can verify our results with ..?
  
 
 ## Link to YouTube Video:
