@@ -49,9 +49,14 @@ application on an open source, low-power RISC-V processor. The plan is to increa
 the performance by extending the instruction set with most commonly used operations
 in the application.
 
+
+
+<p align="center">
+<img src="https://i.imgur.com/4DKMCg7.png"/>
+</p>
  
 
-## Description of Archive
+## Description of Folders
 
  - /srcs Contains source files for RV32IMC Ibex Core with our modifications.
  - /sw  Contains our 48-bit message length NTRU C implementation with parameters **N = 53**, **p = 3**,   **q = 101** with added custom instructions.
