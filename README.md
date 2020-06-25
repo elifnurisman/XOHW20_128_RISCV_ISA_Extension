@@ -23,7 +23,7 @@
 
  - **Board used:** Digilent Nexys 4 DDR Artix-7  
 
- - **Software Version:** Xilinx Vivado 2019.1 
+ - **Software Version:** Xilinx Vivado 2018.1 
 
 ## Description of the Project
 
@@ -54,7 +54,7 @@ in the application.
 
 ## Instructions to Test the Project
 
- - Generated bitstream is in the /bit folder. Anyone can program their Nexys4DDR FPGA with that bitstream and can verify our results with ..?
+ - Generated bitstream is in the /bit folder. Anyone can program their Nexys4DDR FPGA with that bitstream and can verify our results on the Hardware Manager Window of Vivado 2018.1
  
 
 ## Link to YouTube Video:
