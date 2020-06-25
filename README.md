@@ -1,6 +1,9 @@
 # Extending the Instruction Set of RISC-V Processor for NTRU Algorithm
 
-![Logo](https://www.pikpng.com/pngl/b/510-5109202_cryptography-png-secure-network-icon-clipart.png)
+<p align="center">
+<img src="https://www.pikpng.com/pngl/b/510-5109202_cryptography-png-secure-network-icon-clipart.png" width="200" height="250" />
+</p>
+
 
  - **Team number:** 128
 
