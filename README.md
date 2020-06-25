@@ -48,7 +48,7 @@ in the application.
 ## Description of Archive
 
  - /srcs Contains source files for RV32IMC Ibex Core with our modifications.
- - /sw  Contains our 48-bit message length NTRU C implementation with parameters **N = 53**, **p = 3**, **q = 101** with added custom instructions.
+ - /sw  Contains our 48-bit message length NTRU C implementation with parameters **N = 53**, **p = 3**,   **q = 101** with added custom instructions.
  - /bit Contains the project bitstream compatible with our FPGA card specified above. 
  - /prj Contains the archived project. 
 
