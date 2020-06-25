@@ -10,7 +10,7 @@ This folder contains all the *.sv* files of our project with the addition of con
 - LED_driver.v
 - tb_top.v
 - custom_module.sv
-- remainder.v (Taken from the paper "TRANSLATION OF DIVISION ALGORITHM INTO VERILOG HDL by Y. Yusmardiah, 2006)
+- remainder.v* 
 
 ###### Major Modifications
 
@@ -41,3 +41,4 @@ This folder contains all the *.sv* files of our project with the addition of con
  - ibex_alu.sv
  - clkgen_xil7series.sv
  
+PS: remainder.v is taken from the paper "*TRANSLATION OF DIVISION ALGORITHM INTO VERILOG HDL* by Y. Yusmardiah, 2006")
