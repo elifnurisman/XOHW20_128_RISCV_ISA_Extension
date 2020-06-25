@@ -1,5 +1,6 @@
 # Extending the Instruction Set of RISC-V Processor for NTRU Algorithm
 
+![Logo](https://www.pikpng.com/transpng/hTxwiTb/)
 
  - **Team number:** 128
 
