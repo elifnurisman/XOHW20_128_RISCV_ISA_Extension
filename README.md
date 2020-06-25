@@ -1,7 +1,7 @@
 # xohw20_128_RISCV_ISA_Extension
 
 
-#Team number: 128
+*Team number: 128
 
 #Project name: Extending the Instruction Set of RISC-V Processor for NTRU Algorithm
 
